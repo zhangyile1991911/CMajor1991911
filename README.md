@@ -1,4 +1,4 @@
-# peony mordel C++ NETWORK FRAME
+# peony modern C++ NETWORK FRAME
 directory structure
 ```
 ./
